@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0mZR7dn+IyU=",
+  "success": true,
+  "projectFilePath": "/Users/bmidy/Documents/code/blazor-test/blazor-test.csproj",
+  "expectedPackageFiles": [
+    "/Users/bmidy/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.7/microsoft.aspnetcore.app.internal.assets.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
