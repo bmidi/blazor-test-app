@@ -1,0 +1,7 @@
+/Users/bmidy/Documents/code/blazor-test/bin/Release/net10.0/publish/blazor-test
+/Users/bmidy/Documents/code/blazor-test/bin/Release/net10.0/publish/appsettings.Development.json
+/Users/bmidy/Documents/code/blazor-test/bin/Release/net10.0/publish/appsettings.json
+/Users/bmidy/Documents/code/blazor-test/bin/Release/net10.0/publish/blazor-test.dll
+/Users/bmidy/Documents/code/blazor-test/bin/Release/net10.0/publish/blazor-test.runtimeconfig.json
+/Users/bmidy/Documents/code/blazor-test/bin/Release/net10.0/publish/blazor-test.pdb
+/Users/bmidy/Documents/code/blazor-test/bin/Release/net10.0/publish/blazor-test.deps.json
